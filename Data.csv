@@ -1,0 +1,48 @@
+Sentences,Labels
+"Hello",0
+"Hi",0
+"Greetings",0
+"How is it going?",1
+"How are you?",1
+"How do you do?",1
+"What's up?",1
+"Nice to meet you",2
+"It's a pleasure to meet you",2
+"Pleased to meet you",2
+"Hi, how is it going?",1
+"Hi, how are you?",1
+"Hi, how do you do?",1
+"Hi, nice to meet you",2
+"Hi, it's a pleasure to meet you",2
+"Hi, pleased to meet you",2
+"Hey",0
+"Hey there",0
+"Hi there",0
+"Hello there",0
+"Good Morning",5
+"Good Afternoon",6
+"Good Evening",7
+"Good Night",8
+"Hope you have a good morning",5
+"Hope you have a good afternoon",6
+"Hope you have a good evening",7
+"Hope you have a good night",8
+"Hi, good morning",5
+"Hi, good afternoon",6
+"Hi, good evening",7
+"Hi, good night",8
+"Yo there",0
+"Yo",0
+"How have you been",1
+"Howdy",0
+"Nice to see you",2
+"Good to see you",2
+"Have a good day",3
+"Good day",3
+"Have a nice day",3
+"Wish you a nice day",3
+"Hope you have a good day",3
+"Hope you have a nice day",3
+"Goodbye",4
+"Bye",4
+"See you soon",4
